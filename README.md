@@ -65,6 +65,8 @@ let data = {
   website: "hildegard.org",
 }
 
+### ""
+
 1. Use the spread operator to update the object with:
 
 name: your name
@@ -74,6 +76,7 @@ hobby: your hobby
 2. Use destructuring to extract the street and city properties from the address object.
 
 ## How to Run
+
 Clone the repository
 Open the index.js file
 Run the JavaScript code in your preferred browser or Node.js environment.
