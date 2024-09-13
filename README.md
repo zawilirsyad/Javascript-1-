@@ -76,7 +76,7 @@ hobby: your hobby
 
 ## How to Run
 
-Clone the repository
-Open the index.js file
-Run the JavaScript code in your preferred browser or Node.js environment.
+- Clone the repository
+- Open the index.js file
+- Run the JavaScript code in your preferred browser or Node.js environment.
 
